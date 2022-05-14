@@ -5,12 +5,16 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^9.1.1",
+    "puppeteer": "^14.0.0",
     "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@meoc/eslint-config-format": "^0.0.5"
   }
 }

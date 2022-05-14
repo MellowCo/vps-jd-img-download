@@ -1,3 +1,5 @@
 .history
 userDataCache/**
 node_modules/
+file/**
+*.zip

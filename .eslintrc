@@ -1,0 +1,3 @@
+{
+  "extends": "@meoc/eslint-config-format"
+}
